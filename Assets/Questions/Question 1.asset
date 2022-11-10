@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dc03d1f4e036174d885a389ae997230, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: "9. s\u0131n\u0131fta ingilizce derslerinde oynad\u0131\u011F\u0131m\u0131z
+    oyun hangisidir"
+  answers:
+  - WWP
+  - "Y\u0131lannnssss"
+  - "Herkesin tuttu\u011Fu kendine"
+  - DOTA
+  correctAnswerIndex: 0

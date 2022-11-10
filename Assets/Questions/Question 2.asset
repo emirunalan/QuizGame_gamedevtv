@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dc03d1f4e036174d885a389ae997230, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: "10. s\u0131n\u0131fta oynad\u0131\u011F\u0131m\u0131z \"Pembe Evin Kaderi\"
+    isimli tiyatro oyununda, \xD6mo hangi karakteri canland\u0131rm\u0131\u015Ft\u0131r?"
+  answers:
+  - "Evin k\xFC\xE7\xFCk o\u011Flu"
+  - Dede
+  - Kamyoncu
+  - "K\xFCrt Ahmet"
+  correctAnswerIndex: 2

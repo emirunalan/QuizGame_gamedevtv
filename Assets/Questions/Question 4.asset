@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dc03d1f4e036174d885a389ae997230, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: 
+  question: "Hangisi Tala'dan \xE7\u0131km\u0131\u015F bir c\xFCmle de\u011Fildir?"
+  answers:
+  - "Ben art\u0131k ergenlikten \xE7\u0131kt\u0131\u011F\u0131m\u0131 d\xFC\u015F\xFCn\xFCyorum"
+  - "Benim babam yatakta \xE7ok terliyo"
+  - "Benim babam farkl\u0131 d\xFC\u015F\xFCn\xFCyo"
+  - d
+  correctAnswerIndex: 1
